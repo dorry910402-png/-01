@@ -1,0 +1,30 @@
+body {
+  font-family: "Arial";
+  text-align: center;
+  background: #f5f5f5;
+}
+
+#scoreboard {
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+}
+
+#bases {
+  font-size: 40px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.option {
+  display: block;
+  margin: 8px;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ccc;
+}
